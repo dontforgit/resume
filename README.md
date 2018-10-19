@@ -10,19 +10,19 @@
 
 #### Amazon Web Services (AWS)
 
- - [X] Worked with the development team and University IS to migrate ~250 WordPress websites from a linux server to an AWS environment.
- - [X] Transitioned all of our sites from http to https.
- - [X] Migrated assets into S3.
- - [X] Replaced crons with Lambda functions.
+ - Worked with the development team and University IS to migrate ~250 WordPress websites from a linux server to an AWS environment.
+ - Transitioned all of our sites from http to https.
+ - Migrated assets into S3.
+ - Replaced crons with Lambda functions.
 
 #### Dev Ops
 
- - [X] Code Deployments are managed through Jenkins and triggered in GitHub.
- - [X] Locally develop inside a Docker container using Vagrant.
+ - Code Deployments are managed through Jenkins and triggered in GitHub.
+ - Locally develop inside a Docker container using Vagrant.
  
 #### Personal Development
 
- - [ ] Participating in the University Advancement LeaderShift Mentorship Program
+ - Participating in the University Advancement LeaderShift Mentorship Program
 
 ##### Books I've Read
  
@@ -38,6 +38,8 @@
  - [X] Start with Why, Simon Sinek
  - [X] Drive, Daniel H. Pink
  - [X] Stealing the Corner Office, Brendan Reid
+
+-----
 
 ### Previous Employers & Experience
 
@@ -107,6 +109,8 @@ these concerns to leadership to mitigate risks
  - Maintained 37 unique WordPress websites for the two sister companies
  - Developed new sites to the specs of the respective business owner
  - Supported new features that were added to existing sites
+ 
+-----
 
 ## Education
 
@@ -119,10 +123,14 @@ Old Dominion University -- Spring 2011
 *Bachelor of Arts Degree*
 *Computer Science Minor*
 
+-----
+
 ## Dev Preferences
 
  - Operating System: Mac
  - IDE: PHPStorm
+
+-----
 
 ## Contact Information
 
