@@ -26,13 +26,16 @@
 
 ##### Books I've Read
  
+ - [ ] The Seven Laws of the Learner, Bruce Wilkinson
+ - [ ] The 4 Disciples of Execution, Chris McChesney and Sean Covey
+ - [ ] Sticky Teams, Larry Osborne
  - [ ] Essentialism: The Disciplined Persuit of Less, Greg McKeown
- - [X] The Contrarian's Guide to Leadership, Steven B. Sample
+ - [X] The Contrarian's Guide to Leadership, Steven B. Sample (x2)
  - [X] The 10X Rule, Grant Cardone
  - [X] The Dichotomy of Leadership, Jocko Willink & Leif Babin
  - [X] Sticky Leaders, Larry Osborne
- - [X] Never Split the Difference, Chris Voss
- - [X] Extreme Ownership, Jocko Willink & Leif Babin
+ - [X] Never Split the Difference, Chris Voss (x2)
+ - [X] Extreme Ownership, Jocko Willink & Leif Babin (x2)
  - [X] The Power of Habit, Charles Duhigg
  - [X] How to Lead When You're Not in Charge, Clay Scroggins
  - [X] Start with Why, Simon Sinek
