@@ -29,7 +29,7 @@
  - [ ] The Seven Laws of the Learner, Bruce Wilkinson
  - [ ] The 4 Disciples of Execution, Chris McChesney and Sean Covey
  - [ ] Sticky Teams, Larry Osborne
- - [ ] Essentialism: The Disciplined Persuit of Less, Greg McKeown
+ - [X] Essentialism: The Disciplined Persuit of Less, Greg McKeown
  - [X] The Contrarian's Guide to Leadership, Steven B. Sample (x2)
  - [X] The 10X Rule, Grant Cardone
  - [X] The Dichotomy of Leadership, Jocko Willink & Leif Babin
@@ -48,7 +48,7 @@
 
 **Wake Forest University: School of Business**
 
-*Web Developer, September 2015 - Present*
+*Web Developer, September 2015 - December 2017*
 
  - Upon my arrival, the School of Business had no process or change management
 for web; therefore, I implemented:
