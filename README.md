@@ -22,13 +22,14 @@
  
 #### Personal Development
 
- - Participating in the University Advancement LeaderShift Mentorship Program
+ - University Advancement LeaderShift Mentorship Program
 
 ##### Books I've Read
  
- - [ ] The Seven Laws of the Learner, Bruce Wilkinson
- - [ ] The 4 Disciples of Execution, Chris McChesney and Sean Covey
- - [ ] Sticky Teams, Larry Osborne
+ - [ ] Setting the Table: The transforming power of hospitality in business, Danny Meyer
+ - [X] The Seven Laws of the Learner, Bruce Wilkinson
+ - [X] The 4 Disciples of Execution, Chris McChesney and Sean Covey
+ - [X] Sticky Teams, Larry Osborne
  - [X] Essentialism: The Disciplined Persuit of Less, Greg McKeown
  - [X] The Contrarian's Guide to Leadership, Steven B. Sample (x2)
  - [X] The 10X Rule, Grant Cardone
