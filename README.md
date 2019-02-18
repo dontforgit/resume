@@ -26,11 +26,13 @@
 
 ##### Books I've Read
  
- - [ ] Setting the Table: The transforming power of hospitality in business, Danny Meyer
+ - [ ] Quiet Strength: The Principles, Practices, and Priorities of a Winning Life, Tony Dungy and Nathan Whitaker
+ - [X] The Leadership Challenge: How to Make Extraordinary Things Happen in Organizations, Barry Posner and James Kouzes
+ - [X] Setting the Table: The transforming power of hospitality in business, Danny Meyer
  - [X] The Seven Laws of the Learner, Bruce Wilkinson
  - [X] The 4 Disciples of Execution, Chris McChesney and Sean Covey
  - [X] Sticky Teams, Larry Osborne
- - [X] Essentialism: The Disciplined Persuit of Less, Greg McKeown
+ - [X] Essentialism: The Disciplined Pursuit of Less, Greg McKeown
  - [X] The Contrarian's Guide to Leadership, Steven B. Sample (x2)
  - [X] The 10X Rule, Grant Cardone
  - [X] The Dichotomy of Leadership, Jocko Willink & Leif Babin
@@ -42,6 +44,34 @@
  - [X] Start with Why, Simon Sinek
  - [X] Drive, Daniel H. Pink
  - [X] Stealing the Corner Office, Brendan Reid
+
+**Westchester Baptist Church**
+
+*Director of Youth Ministry, January 2016 - Present*
+
+#### Volunteer Management
+
+ - Built a volunteer team of eight people.
+   - Recruited the volunteers I wanted for specific jobs.
+   - Started with a team of zero and build the team from the ground up.
+   - Determined roles and responsibilities for volunteers.
+   - Determined standards and expectations for volunteers.
+ - Coordinate volunteers for large events such as summer camp and yearly retreats.
+ - Resolve conflicts between members of the volunteer team.
+ - Communicate organizational priorities to the volunteers to mobilize them to complete goals.
+ - Lead monthly team meeting which includes training, vision casting, and working through the details of specific projects.
+ - Lead yearly performance review of volunteers to ensure they are meeting standards and expectations.
+
+#### Responsibilities
+
+ - Planned and led a team of ten to Nicaragua on an overseas mission trip in July of 2018. 
+   - A second trip is planned for July 2019 with 18 people attending.
+ - Determine the vision and priorities for the youth ministry.
+ - Plan and execute weekly programs, monthly activities, and yearly retreats.
+ - Research, evaluate, and purchase educational materials.
+ - Build custom systems to track key performance metrics (such as attendance).
+ - Maintain social media accounts, youth group website, church website, SoundCloud, Podcasts, and weekly MailChimp communication with parents and volunteers.
+ - Manage the Youth Ministry budget.
 
 -----
 
