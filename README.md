@@ -26,7 +26,8 @@
 
 ##### Books I've Read
  
- - [ ] Quiet Strength: The Principles, Practices, and Priorities of a Winning Life, Tony Dungy and Nathan Whitaker
+ - [ ] Give and Take: A Revolutionary Approach to Success, Adam Grant
+ - [X] Quiet Strength: The Principles, Practices, and Priorities of a Winning Life, Tony Dungy and Nathan Whitaker
  - [X] The Leadership Challenge: How to Make Extraordinary Things Happen in Organizations, Barry Posner and James Kouzes
  - [X] Setting the Table: The transforming power of hospitality in business, Danny Meyer
  - [X] The Seven Laws of the Learner, Bruce Wilkinson
