@@ -26,7 +26,7 @@
 
 ##### Books I've Read
  
- - [ ] Give and Take: A Revolutionary Approach to Success, Adam Grant
+ - [X] Give and Take: A Revolutionary Approach to Success, Adam Grant
  - [X] Quiet Strength: The Principles, Practices, and Priorities of a Winning Life, Tony Dungy and Nathan Whitaker
  - [X] The Leadership Challenge: How to Make Extraordinary Things Happen in Organizations, Barry Posner and James Kouzes
  - [X] Setting the Table: The transforming power of hospitality in business, Danny Meyer
@@ -41,7 +41,7 @@
  - [X] Never Split the Difference, Chris Voss (x2)
  - [X] Extreme Ownership, Jocko Willink & Leif Babin (x2)
  - [X] The Power of Habit, Charles Duhigg
- - [X] How to Lead When You're Not in Charge, Clay Scroggins
+ - [X] How to Lead When You're Not in Charge, Clay Scroggins (x2 Pending)
  - [X] Start with Why, Simon Sinek
  - [X] Drive, Daniel H. Pink
  - [X] Stealing the Corner Office, Brendan Reid
