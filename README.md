@@ -10,22 +10,24 @@
 
 #### Amazon Web Services (AWS)
 
- - Worked with the development team and University IS to migrate ~250 WordPress websites from a linux server to an AWS environment.
+ - Experience with the following AWS resources: Elastic Beanstalk, EC2, CloudWatch, Lambda, Lightsail, CloudFormation, RDS, DynamoDB, API Gateway, Step Functions, Cloud9, and more.
+ - Worked with the development team and University IS to migrate ~250 WordPress websites from an on-premises linux server to an AWS environment.
  - Transitioned all of our sites from http to https.
- - Migrated assets into S3.
+ - Migrated static assets into S3.
  - Replaced crons with Lambda functions.
  - Developed and implemented best practices for Cloud9 development with Lambda functions. 
- - Developed and implemented deployment of lambda functions and state machines via cloudformation.
+ - Developed and implemented deployment of Lambda functions and state machines via CloudFormation.
 
 #### Dev Ops
 
  - Code Deployments are managed through Jenkins and triggered in GitHub.
- - Locally develop inside a Docker container using Vagrant with Parallels.
+ - Local development inside a Docker container using Vagrant with Parallels.
  - Gulp is used to manipulate, minify, and build files at time of deployment.
  
 #### Personal Development
 
  - University Advancement LeaderShift Mentorship Program
+ - Extensive reading for personal growth (see list below).
 
 -----
 
@@ -130,6 +132,14 @@ these concerns to leadership to mitigate risks
  
  ### Relevant Books I've Read 
  
+ - [X] Free to Focus: A Total Productivity System to Achieve More by Doing Less, Michael Hyatt
+ - [X] The Culture Code: The Secrets of Highly Successful Groups, Daniel Coyle
+ - [X] The 15 Invaluable Laws of Growth, John C. Maxwell
+ - [X] The Conviction to Lead: 25 Principles for Leadership that Matters, Albert Mohler
+ - [X] Communicating for a Change: Seven Keys to Irresistible Communication, Andy Stanley
+ - [X] Next Generation Leader: 5 Essentials for Those Who Will Shape the Future, Andy Stanley
+ - [X] The New One Minute Manager, Ken Blanchard, Spencer Johnson
+ - [X] The Mentor Leader: Secrets to Building People & Teams That Win Consistently, Tony Dungy
  - [X] Spiritual Leadership, J. Oswald Sanders
  - [X] Give and Take: A Revolutionary Approach to Success, Adam Grant
  - [X] Quiet Strength: The Principles, Practices, and Priorities of a Winning Life, Tony Dungy and Nathan Whitaker
@@ -143,7 +153,7 @@ these concerns to leadership to mitigate risks
  - [X] The 10X Rule, Grant Cardone
  - [X] The Dichotomy of Leadership, Jocko Willink & Leif Babin
  - [X] Sticky Leaders, Larry Osborne
- - [X] Never Split the Difference, Chris Voss (x2)
+ - [X] Never Split the Difference, Chris Voss (x3)
  - [X] Extreme Ownership, Jocko Willink & Leif Babin (x2)
  - [X] The Power of Habit, Charles Duhigg
  - [X] How to Lead When You're Not in Charge, Clay Scroggins (x2)
