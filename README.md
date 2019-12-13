@@ -1,12 +1,68 @@
 # Joshua Bryant, Senior Web Developer
 
+## Technologies
+
+### Programming Languages
+
+- PHP (8 years)
+  - Composer
+  - PSR Standards
+  - WordPress (8 years)
+  - Code Igniter (2 years)
+- Javascript (8 years)
+  - NodeJS (2 years)
+  - React (<1 year)
+
+### Basic Languages
+
+- CSS/CSS3 (8 years)
+- HTML/HTML5 (8 years)
+- JSON (5 years)
+- XML (4 years)
+
+### Databases 
+
+- MySQL (8 years)
+- MSSQL (4 years)
+
+### AWS (2 years)
+
+- Api Gateway
+- Cloud9
+- CloudWatch
+- CloudFormation
+- EC2
+- Elastic Beanstalk
+- Lambda
+- S3
+- Step Functions
+
+### CI / Development
+
+- Docker (2 years)
+- Jenkins (2 years)
+- PHP Storm (2 years)
+
 ## Experience
 
 ### Current Employer & Experience
 
-**Wake Forest University: Communications and External Relations, University Advancement**
+**Wake Forest University (September 2015 - Present)** 
+
+**AIT, University Advancement**
 
 *Senior Web Developer, January 2018 - Present*
+
+#### WordPress
+
+- Manage WordPress Netowrk of 365 sites.
+- Built/manage 8+ custom themes. 
+- Built/manage 50+ custom plugins.
+- Built/manage 12+ custom mu-plugins.
+- Manage custom 60+ third-party plugins.
+- Implement WordPress core and plugin updates.
+- Communicate updates and changes to stakeholders and clients.
+- Document new code and processes. (PHP Docs)
 
 #### Amazon Web Services (AWS)
 
@@ -28,10 +84,6 @@
 
  - University Advancement LeaderShift Mentorship Program
  - Extensive reading for personal growth (see list below).
-
------
-
-### Previous Employers & Experience
 
 **Wake Forest University: School of Business**
 
@@ -64,6 +116,10 @@ WordPress themes and plugins
  - Designed and developed multiple websites using Agile SCRUM from requirement
 gathering all the way through to completion
  - Developed responsive themes with Bootstrap and Foundation
+
+-----
+
+### Previous Employers & Experience
 
 **National Agents Alliance**
 *Web Developer, May 2014 – September 2015*
@@ -100,7 +156,7 @@ these concerns to leadership to mitigate risks
  - Developed new sites to the specs of the respective business owner
  - Supported new features that were added to existing sites
  
- ### Other Relevant Experience
+ ### Leadership Experience
  
  **Westchester Baptist Church**
 
@@ -124,14 +180,16 @@ these concerns to leadership to mitigate risks
  - Planned and led a team of ten to Nicaragua on an overseas mission trip in July of 2018. 
    - A second trip is planned for July 2019 with 18 people attending.
  - Determine the vision and priorities for the youth ministry.
- - Plan and execute weekly programs, monthly activities, and yearly retreats.
+ - Plan and execute weekly programs and lessons, monthly activities, and yearly retreats.
  - Research, evaluate, and purchase educational materials.
  - Build custom systems to track key performance metrics (such as attendance).
  - Maintain social media accounts, youth group website, church website, SoundCloud, Podcasts, and weekly MailChimp communication with parents and volunteers.
- - Manage the Youth Ministry budget.
+ - Propose and manage the Youth Ministry budget.
  
  ### Relevant Books I've Read 
  
+ - [ ] The Stress Effect: Why Smart Leaders Make Dumb Decisions - And What to Do About It, Henry L. Thompson
+ - [X] The 5 Levels of Leadership: Proven Steps to Maximize Your Potential, John C. Maxwell
  - [X] Free to Focus: A Total Productivity System to Achieve More by Doing Less, Michael Hyatt
  - [X] The Culture Code: The Secrets of Highly Successful Groups, Daniel Coyle
  - [X] The 15 Invaluable Laws of Growth, John C. Maxwell
