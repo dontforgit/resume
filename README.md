@@ -16,6 +16,7 @@
 ### Basic Languages
 
 - CSS/CSS3 (8 years)
+  - Less / Sass (5 years)
 - HTML/HTML5 (8 years)
 - JSON (5 years)
 - XML (4 years)
@@ -27,7 +28,7 @@
 
 ### AWS (2 years)
 
-- Api Gateway
+- API Gateway
 - Cloud9
 - CloudWatch
 - CloudFormation
@@ -42,6 +43,8 @@
 - Docker (2 years)
 - Jenkins (2 years)
 - PHP Storm (2 years)
+- Grunt (2 years)
+- Gulp (2 years)
 
 ## Experience
 
@@ -55,14 +58,14 @@
 
 #### WordPress
 
-- Manage WordPress Netowrk of 365 sites.
+- Manage WordPress network of 365 sites.
 - Built/manage 8+ custom themes. 
 - Built/manage 50+ custom plugins.
 - Built/manage 12+ custom mu-plugins.
 - Manage custom 60+ third-party plugins.
 - Implement WordPress core and plugin updates.
 - Communicate updates and changes to stakeholders and clients.
-- Document new code and processes. (PHP Docs)
+- Document new code and processes. 
 
 #### Amazon Web Services (AWS)
 
