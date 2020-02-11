@@ -191,6 +191,12 @@ these concerns to leadership to mitigate risks
  
  ### Relevant Books I've Read 
  
+ - [X] Don't Waste Your Life, John Piper
+ - [X] Meditations, Marcus Aurelius
+ - [X] The Prince, Machiavelli
+ - [X] Wake Up Happy, Michael Strahan
+ - [X] Leadership Strategy and Tactics, Jocky Willink
+ - [X] Eleven Rings, Phil Jackson
  - [ ] The Stress Effect: Why Smart Leaders Make Dumb Decisions - And What to Do About It, Henry L. Thompson
  - [X] The 5 Levels of Leadership: Proven Steps to Maximize Your Potential, John C. Maxwell
  - [X] Free to Focus: A Total Productivity System to Achieve More by Doing Less, Michael Hyatt
