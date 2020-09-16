@@ -2,7 +2,7 @@
 
 ## Technologies
 
-### Programming Languages
+### Programming Languages & Frameworks
 
 - PHP (8 years)
   - Composer
@@ -10,11 +10,13 @@
   - WordPress (8 years)
   - Code Igniter (2 years)
 - Javascript (8 years)
+  - JQuery (8 years)
   - NodeJS (2 years)
   - React (<1 year)
 
-### Basic Languages
+### Basic Technologies
 
+- LAMP Stack (8 years)
 - CSS/CSS3 (8 years)
   - Less / Sass (5 years)
 - HTML/HTML5 (8 years)
@@ -189,9 +191,16 @@ these concerns to leadership to mitigate risks
  - Maintain social media accounts, youth group website, church website, SoundCloud, Podcasts, and weekly MailChimp communication with parents and volunteers.
  - Propose and manage the Youth Ministry budget.
  
- ### Relevant Books I've Read 
+ ### Relevant Books I've Read (since 2018)
  
- - [ ] Discipline Equals Freedom Field Manual, Jocko Willink
+ - [ ] Crushing it!, Gary Vaynerchuck
+ - [ ] Think Like a Rocket Scientist, Ozan Varol
+ - [X] Leadershift, John C. Maxwell
+ - [X] The Vision-Driven Leader, Michael Hyatt
+ - [X] No Excuses!, Brian Tracey
+ - [X] Indistractable, Nir Eyal, Julie Li
+ - [X] Atomic Habits, James Clear
+ - [X] Discipline Equals Freedom Field Manual, Jocko Willink
  - [X] Don't Waste Your Life, John Piper
  - [X] Meditations, Marcus Aurelius
  - [X] The Prince, Machiavelli
